@@ -1,6 +1,3 @@
-console.log('This is Client Side Javascript !!!')
-
-
 const loader=document.querySelector('.loader')
 const weatherForm =document.querySelector('form')
 const search=document.querySelector('input')
